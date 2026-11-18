@@ -121,6 +121,7 @@ Each language has its own folder with resources organized by skill and CEFR leve
 - [Japanese](languages/japanese/)
 - [Korean](languages/korean/)
 - [Mandarin Chinese](languages/mandarin-chinese/)
+- [Persian](languages/persian/)
 - [Portuguese](languages/portuguese/)
 - [Russian](languages/russian/)
 - [Spanish](languages/spanish/)
