@@ -41,6 +41,7 @@
 - [Language Reactor](https://www.languagereactor.com/) - Browser extension that adds dual subtitles and a pop-up dictionary to Netflix and YouTube.
 - [HiNative](https://hinative.com/) - Ask native speakers quick questions about how their language is really used.
 - [LangCorrect](https://langcorrect.com/) - Write in your target language and get free corrections from native speakers.
+- [GetYouTubeTranscript](https://getyoutubetranscript.com/youtube-transcript-generator) - Turns the subtitles of a YouTube video into a transcript you can read, search, translate and download, in any caption language the video has.
 
 ### Free Courses & Audio
 
