@@ -46,6 +46,7 @@
 - [Indilingo](https://www.indilingo.ai/) - Web and mobile app for 22 Indian languages and 17 others, with lessons and spoken practice with an AI tutor, taught from English or from another Indian language. Free tier with daily limits, paid Pro plan.
 - [FluenTech](https://fluentech.org/) - Grammar lessons, themed word lists, exam guides and classic books with translations for 7 languages, free to read on the web. The companion apps have an optional Premium.
 - [Readuet](https://readuet.com/) - Aligns an ebook with its audiobook, or a podcast with its transcript, highlighting the text as the narrator speaks, with tap-to-translate and spaced-repetition review. Free public-domain library; your own books need a paid plan.
+- [VocaFlare Clips](https://clips.vocaflare.com/playground) - Search an English or Spanish word and hear it spoken in real YouTube clips, starting at the exact second, with the transcript line shown. Free in the browser.
 
 ### Free Courses & Audio
 
