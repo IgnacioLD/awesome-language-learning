@@ -20,3 +20,4 @@ Resources for learning Spanish, organized by skill.
 
 - [SpanishDict](https://www.spanishdict.com/) - Spanish-English dictionary with conjugations, example sentences and pronunciation.
 - [Diccionario de la lengua espanola (RAE)](https://dle.rae.es/) - The official dictionary of the Spanish language, from the Real Academia.
+- [Vozelu](https://vozelu.com/) - Free Spanish vocabulary practice where you type the missing word in sentences, with spaced repetition.

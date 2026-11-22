@@ -41,6 +41,13 @@
 - [Language Reactor](https://www.languagereactor.com/) - Browser extension that adds dual subtitles and a pop-up dictionary to Netflix and YouTube.
 - [HiNative](https://hinative.com/) - Ask native speakers quick questions about how their language is really used.
 - [LangCorrect](https://langcorrect.com/) - Write in your target language and get free corrections from native speakers.
+- [TubeVocab](https://www.tubevocab.com/) - Web app that turns words you click in YouTube subtitles into flashcards with translation, pronunciation and the original sentence, reviewed with spaced repetition. Paid subscription after a small free allowance of 3 videos and 50 cards.
+- [Recordar Palabras](https://recordarpalabras.com/) - Personal vocabulary notebook with short spaced-repetition reviews, on the web and iPhone, with the interface in Spanish and English. Free, with a paid plan for more AI-generated definitions.
+- [Indilingo](https://www.indilingo.ai/) - Web and mobile app for 22 Indian languages and 17 others, with lessons and spoken practice with an AI tutor, taught from English or from another Indian language. Free tier with daily limits, paid Pro plan.
+- [FluenTech](https://fluentech.org/) - Grammar lessons, themed word lists, exam guides and classic books with translations for 7 languages, free to read on the web. The companion apps have an optional Premium.
+- [Readuet](https://readuet.com/) - Aligns an ebook with its audiobook, or a podcast with its transcript, highlighting the text as the narrator speaks, with tap-to-translate and spaced-repetition review. Free public-domain library; your own books need a paid plan.
+- [VocaFlare Clips](https://clips.vocaflare.com/playground) - Search an English or Spanish word and hear it spoken in real YouTube clips, starting at the exact second, with the transcript line shown. Free in the browser.
+- [Lalea](https://lalea.app/) - Learn a language from films and series with two subtitle lines, tappable words saved with their scene and a short daily review. Works with Plex, Jellyfin, Emby or a video file. Freemium.
 
 ### Free Courses & Audio
 
@@ -115,6 +122,7 @@ Each language has its own folder with resources organized by skill and CEFR leve
 - [Dutch](languages/dutch/)
 - [English](languages/english/)
 - [French](languages/french/)
+- [Georgian](languages/georgian/)
 - [German](languages/german/)
 - [Hindi](languages/hindi/)
 - [Italian](languages/italian/)

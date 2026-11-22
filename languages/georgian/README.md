@@ -4,6 +4,6 @@
 
 Resources for learning Georgian, organized by skill.
 
-## Vocabulary & Dictionaries
+## Reading & Writing
 
-- [Hookabet:](https://hookabet.com/en/) - a free web app that teaches the 33 Georgian letters with a drawn memory hook for each one. No signup, no ads..
+- [Hookabet](https://hookabet.com/en/) - Free web app that teaches the 33 Georgian letters with a drawn memory hook for each one, then first words and a short story. No signup, no ads.
