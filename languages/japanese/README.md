@@ -10,7 +10,7 @@ Resources for learning Japanese, organized by skill.
 
 ## Grammar
 
-- [Tae Kim's Guide to Japanese](https://guidetojapanese.org/) - Complete free grammar guide, from the writing system to advanced structures.
+- [Tae Kim's Guide to Japanese](https://guidetojapanese.org/learn/) - Complete free grammar guide, from the writing system to advanced structures.
 - [Bunpro](https://bunpro.jp/) - Spaced-repetition grammar practice, with paths for JLPT levels and popular textbooks.
 
 ## Listening
