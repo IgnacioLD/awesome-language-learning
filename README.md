@@ -122,6 +122,7 @@ Each language has its own folder with resources organized by skill and CEFR leve
 - [Dutch](languages/dutch/)
 - [English](languages/english/)
 - [French](languages/french/)
+- [Georgian](languages/georgian/)
 - [German](languages/german/)
 - [Hindi](languages/hindi/)
 - [Italian](languages/italian/)
