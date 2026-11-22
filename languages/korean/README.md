@@ -14,6 +14,10 @@ Resources for learning Korean, organized by skill.
 - [How to Study Korean](https://www.howtostudykorean.com/) - Structured free lessons from Hangul to advanced grammar, with audio examples.
 - [GO! Billy Korean](https://gobillykorean.com/) - Clear grammar lessons from beginner to advanced, with a popular YouTube channel.
 
+## Listening
+
+- [Tubelang](https://tubelang.com/) - Search a Korean expression and see it used by native speakers in subtitled YouTube clips.
+
 ## Vocabulary & Dictionaries
 
 - [Naver Dictionary](https://dict.naver.com/) - The standard Korean-English dictionary, with example sentences and native audio.
