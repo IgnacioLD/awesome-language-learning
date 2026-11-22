@@ -70,3 +70,4 @@ Resources for learning English, organized by skill and CEFR level.
 - [Italki](https://www.italki.com/) - Find English tutors or native speakers for language exchange.
 - [Tandem](https://www.tandem.net/) - Find people from all over the world, make friends and practice your languages for free.
 - [HelloTalk](https://www.hellotalk.com/) - Practice English with native speakers via chat.
+- [Practice Shadowing](https://practiceshadowing.com/) - Web app for English shadowing: the player pauses after each sentence and waits until you finish repeating it. Works with sample clips, your own audio, podcasts and YouTube.
