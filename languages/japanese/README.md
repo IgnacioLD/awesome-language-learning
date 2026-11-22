@@ -30,6 +30,10 @@ Resources for learning Japanese, organized by skill.
 
 - [Jisho](https://jisho.org/) - Fast Japanese-English dictionary with kanji lookup, example sentences and audio.
 
+## Practice & Immersion
+
+- [Japan Cat](https://japancat.co/) - AI conversation partner for spoken Japanese that corrects your sentences and explains grammar in English, Cantonese or Mandarin, with JLPT N5-N1 levels. Free for 20 messages a month, then paid.
+
 ## Guides & Tips
 
 - [Tofugu](https://www.tofugu.com/) - In-depth guides on learning Japanese, kanji and Japanese culture.
