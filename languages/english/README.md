@@ -42,6 +42,14 @@ Resources for learning English, organized by skill and CEFR level.
 - [Rachel's English](https://rachelsenglish.com/) - Advanced pronunciation videos and exercises.
 - [Pronounce](https://pronounce.renlab.ai/) - Free, open-source pronunciation dictionary for tech and developer jargon (kubectl, nginx, JSON), with IPA, audio, source citations and a quiz mode.
 
+### Pronunciation Trainers (All Levels)
+- [BoldVoice](https://boldvoice.com/) - American accent training app with video lessons from coaches and automated feedback on your speech. Subscription after a free trial; iOS and Android.
+- [ELSA Speak](https://elsaspeak.com/) - App for practising spoken English with automated feedback on your pronunciation. Freemium; iOS and Android.
+- [Glosso](https://glossostudio.com/) - Free, open-source pronunciation trainer that marks each phoneme of your recording as correct, close or missed. Android, with a web app in beta. (Maintained by the list author.)
+- [Mimora](https://github.com/vikonix/Mimora) - Free, open-source desktop trainer that speaks a phrase, records your repeat and grades it, fully offline. Windows, macOS and Linux.
+- [OpenPronounce](https://github.com/OpenPronounce/OpenPronounce) - Open-source pronunciation scoring engine you can self-host, with a browser demo that points out mispronounced words. Aimed mainly at developers.
+- [Speakometer](https://www.speakometer.net/) - App for practising British and American pronunciation with automated feedback and minimal pairs. Free with ads and in-app purchases; iOS and Android.
+
 ## Listening
 
 ### A0-A1 (Beginner)

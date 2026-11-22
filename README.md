@@ -49,6 +49,8 @@
 - [VocaFlare Clips](https://clips.vocaflare.com/playground) - Search an English or Spanish word and hear it spoken in real YouTube clips, starting at the exact second, with the transcript line shown. Free in the browser.
 - [Lalea](https://lalea.app/) - Learn a language from films and series with two subtitle lines, tappable words saved with their scene and a short daily review. Works with Plex, Jellyfin, Emby or a video file. Freemium.
 - [NativePal](https://nativepal.app/) - AI language app for iOS and Android with alphabet lessons, levelled reading, spaced-repetition vocabulary and pronunciation scoring in 57 languages. Free with daily limits.
+- [YouGlish](https://youglish.com/) - Search a word or phrase and hear it spoken in real YouTube videos, filterable by accent, in more than 20 languages.
+- [Speechling](https://speechling.com/) - Nonprofit speaking practice where you record sentences and a human coach sends corrections. Freemium.
 
 ### Free Courses & Audio
 
