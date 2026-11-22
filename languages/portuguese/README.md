@@ -8,7 +8,7 @@ Resources for learning Portuguese, organized by skill.
 
 - [Practice Portuguese](https://www.practiceportuguese.com/) - Lessons, short podcast episodes and interactive exercises for European Portuguese.
 - [Speaking Brazilian](https://speakingbrazilian.com/) - Video lessons and courses for Brazilian Portuguese, from a Brazilian teacher.
-- [Speeku](https://www.speeku.com/) - Gamified app with bite-sized lessons in European Portuguese, every word and sentence recorded, and a dictionary behind every word; one-time payment, works offline.
+- [Speeku](https://www.speeku.com/) - App with short gamified lessons in European Portuguese, audio for every word and sentence and a built-in dictionary. Works offline; free daily lesson, with a one-time purchase to unlock everything.
 
 ## Listening
 
