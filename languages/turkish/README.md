@@ -8,6 +8,7 @@ Resources for learning Turkish, organized by skill.
 
 - [Polly Lingual Turkish](https://pollylingu.al/tr/en) - Interactive Turkish lessons with native audio, from beginner to advanced.
 - [Turkishaholic](https://turkishaholic.com/) - Grammar lessons, vocabulary lists and speaking practice, with a free level test.
+- [TurkishFluent](https://turkishfluent.com/) - Structured Turkish course from A1 to B2 with native-speaker dialogues at normal and slow speed, pronunciation feedback and interactive exercises. First 3 lessons free, then paid.
 
 ## Grammar
 
