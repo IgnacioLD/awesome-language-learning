@@ -21,3 +21,4 @@ Resources for learning Mandarin Chinese, organized by skill.
 ## Vocabulary & Dictionaries
 
 - [Pleco](https://www.pleco.com/) - Chinese-English dictionary app with flashcards, handwriting input and camera-based character lookup.
+- [Hanzilla](https://hanzilla.app/) - Free iOS app for practising handwriting of vocabulary from HSK and common textbooks, with web stroke-order pages for individual characters.
