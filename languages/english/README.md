@@ -79,3 +79,4 @@ Resources for learning English, organized by skill and CEFR level.
 - [Tandem](https://www.tandem.net/) - Find people from all over the world, make friends and practice your languages for free.
 - [HelloTalk](https://www.hellotalk.com/) - Practice English with native speakers via chat.
 - [Practice Shadowing](https://practiceshadowing.com/) - Web app for English shadowing: the player pauses after each sentence and waits until you finish repeating it. Works with sample clips, your own audio, podcasts and YouTube.
+- [WordSlick](https://wordslick.com/) - AI speaking practice with corrections explained in your own language, such as Hindi, Portuguese or Spanish. Freemium; web, iOS and Android.
