@@ -16,3 +16,4 @@ Resources for learning Dutch, organized by skill.
 ## Vocabulary & Dictionaries
 
 - [Van Dale](https://www.vandale.nl/) - The authoritative dictionary of the Dutch language.
+- [The Dutch Daily Vocabulary Game](https://thedutchdaily.nl/dutch-lessons/flashcards/) - Free browser game with 2,000+ everyday A0-A2 words, de/het shown for every noun, audio and spaced repetition; no account needed.
