@@ -10,6 +10,7 @@ Resources for learning Spanish, organized by skill.
 - [Notes in Spanish](https://www.notesinspanish.com/) - Long-running podcast with real conversations for intermediate and advanced learners, with transcripts.
 - [News in Slow Spanish](https://www.newsinslowspanish.com/) - Weekly news read at a slower pace, with transcripts and grammar notes.
 - [Unlimited Spanish](https://unlimitedspanish.com/) - Podcast lessons that build fluency through mini-stories and point-of-view techniques.
+- [Singalama](https://singalama.com/) - Original songs written for five learner levels, with line-by-line English, word meanings and grammar cards; freemium.
 
 ## Grammar
 
