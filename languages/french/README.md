@@ -22,4 +22,4 @@ Resources for learning French, organized by skill.
 
 ## Pronunciation
 
-- [Parle](https://getparle.app/blog/french-e-vs-e-pronunciation/) - English-language guide to French é and è with audio models, a five-minute practice routine, and a printable worksheet with answers.
+- [Parle: French é vs è](https://getparle.app/blog/french-e-vs-e-pronunciation/) - Free English-language guide to French é and è with synthesized audio, a five-minute practice routine and a printable worksheet with answers.
