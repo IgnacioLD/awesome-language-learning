@@ -19,3 +19,7 @@ Resources for learning French, organized by skill.
 
 - [Lawless French](https://www.lawlessfrench.com/) - Grammar lessons, quizzes and listening practice organized by level.
 - [Le Conjugueur](https://leconjugueur.lefigaro.fr/) - Conjugation tables for every French verb, from Le Figaro.
+
+## Pronunciation
+
+- [Parle: French é vs è](https://getparle.app/blog/french-e-vs-e-pronunciation/) - Free English-language guide to French é and è with synthesized audio, a five-minute practice routine and a printable worksheet with answers.

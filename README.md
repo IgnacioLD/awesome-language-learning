@@ -52,6 +52,11 @@
 - [YouGlish](https://youglish.com/) - Search a word or phrase and hear it spoken in real YouTube videos, filterable by accent, in more than 20 languages.
 - [Speechling](https://speechling.com/) - Nonprofit speaking practice where you record sentences and a human coach sends corrections. Freemium.
 - [Vokabulo](https://www.vokabulo.com/) - Vocabulary trainer for your own words in 100+ languages with spaced repetition, on iPhone, iPad and the web. Free plan with ready-made word sets and a limited number of personal words; unlimited use is paid.
+- [YuzuLingo](https://www.yuzulingo.com/) - Desktop browser extension for Chrome, Edge and Firefox that reads hardcoded subtitles with on-device OCR and adds hover dictionary lookups. Also works with soft captions on YouTube, Bilibili, Netflix and Prime Video. Free tier, paid Pro plan.
+- [Inputly](https://joaquinmuzzi.github.io/Inputly/) - Free, open-source browser extension for Chrome and Edge that counts the time you spend on input in your target language, detecting the language of each YouTube video.
+- [WitSpeak](https://witspeak.ai/) - Speaking practice with an AI tutor on iOS, Android and the web, for English and Spanish, with French and German in early access. Free tier, paid Pro subscription.
+- [RadioLang](https://radiolang.com/) - Free browser radio player for live stations in 37 languages, filterable by category, with adjustable playback speed. No account needed.
+- [LyricGlow](https://github.com/ateymoori/lyricglow) - Free, open-source macOS menu bar app that shows synced Spotify and Apple Music lyrics word by word, with a translation into any of 43 languages underneath.
 
 ### Free Courses & Audio
 
@@ -74,7 +79,7 @@
 - [r/languagelearning](https://www.reddit.com/r/languagelearning/) - The largest online community of language learners, with an extensive FAQ and wiki.
 - [WordReference Forums](https://forum.wordreference.com/) - Long-running forums for nuanced vocabulary and grammar questions in many language pairs.
 - [Conversation Exchange](https://www.conversationexchange.com/) - Find partners for face-to-face, correspondence or chat language exchange.
-- [Penfolk](https://penfolk.app/?utm_source=github-com&utm_medium=directory&utm_campaign=listing) - Free pen pal and language exchange app on the web and iPhone. Find people by country, language and interests, then write a slow letter or chat. Optional Supporter plan.
+- [Penfolk](https://penfolk.app/) - Free pen pal and language exchange app on the web and iPhone, with Android in beta. Find people by country, language and interests, then write a slow letter or chat. Optional paid Supporter plan.
 
 ---
 
