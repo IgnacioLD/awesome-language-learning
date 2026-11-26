@@ -52,6 +52,7 @@
 - [YouGlish](https://youglish.com/) - Search a word or phrase and hear it spoken in real YouTube videos, filterable by accent, in more than 20 languages.
 - [Speechling](https://speechling.com/) - Nonprofit speaking practice where you record sentences and a human coach sends corrections. Freemium.
 - [Vokabulo](https://www.vokabulo.com/) - Vocabulary trainer for your own words in 100+ languages with spaced repetition, on iPhone, iPad and the web. Free plan with ready-made word sets and a limited number of personal words; unlimited use is paid.
+- [YuzuLingo](https://www.yuzulingo.com/) - Desktop browser extension for Chrome, Edge and Firefox that reads hardcoded subtitles with on-device OCR and adds hover dictionary lookups. Also works with soft captions on YouTube, Bilibili, Netflix and Prime Video. Free tier, paid Pro plan.
 
 ### Free Courses & Audio
 
