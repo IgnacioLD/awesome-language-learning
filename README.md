@@ -79,6 +79,7 @@
 - [r/languagelearning](https://www.reddit.com/r/languagelearning/) - The largest online community of language learners, with an extensive FAQ and wiki.
 - [WordReference Forums](https://forum.wordreference.com/) - Long-running forums for nuanced vocabulary and grammar questions in many language pairs.
 - [Conversation Exchange](https://www.conversationexchange.com/) - Find partners for face-to-face, correspondence or chat language exchange.
+- [Penfolk](https://penfolk.app/) - Free pen pal and language exchange app on the web and iPhone, with Android in beta. Find people by country, language and interests, then write a slow letter or chat. Optional paid Supporter plan.
 
 ---
 
