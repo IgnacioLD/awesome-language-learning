@@ -56,6 +56,7 @@
 - [Inputly](https://joaquinmuzzi.github.io/Inputly/) - Free, open-source browser extension for Chrome and Edge that counts the time you spend on input in your target language, detecting the language of each YouTube video.
 - [WitSpeak](https://witspeak.ai/) - Speaking practice with an AI tutor on iOS, Android and the web, for English and Spanish, with French and German in early access. Free tier, paid Pro subscription.
 - [RadioLang](https://radiolang.com/) - Free browser radio player for live stations in 37 languages, filterable by category, with adjustable playback speed. No account needed.
+- [LyricGlow](https://github.com/ateymoori/lyricglow) - Free, open-source macOS menu bar app that shows synced Spotify and Apple Music lyrics word by word, with a translation into any of 43 languages underneath.
 
 ### Free Courses & Audio
 
