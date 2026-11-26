@@ -55,6 +55,7 @@
 - [YuzuLingo](https://www.yuzulingo.com/) - Desktop browser extension for Chrome, Edge and Firefox that reads hardcoded subtitles with on-device OCR and adds hover dictionary lookups. Also works with soft captions on YouTube, Bilibili, Netflix and Prime Video. Free tier, paid Pro plan.
 - [Inputly](https://joaquinmuzzi.github.io/Inputly/) - Free, open-source browser extension for Chrome and Edge that counts the time you spend on input in your target language, detecting the language of each YouTube video.
 - [WitSpeak](https://witspeak.ai/) - Speaking practice with an AI tutor on iOS, Android and the web, for English and Spanish, with French and German in early access. Free tier, paid Pro subscription.
+- [RadioLang](https://radiolang.com/) - Free browser radio player for live stations in 37 languages, filterable by category, with adjustable playback speed. No account needed.
 
 ### Free Courses & Audio
 
