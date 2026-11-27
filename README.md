@@ -57,6 +57,7 @@
 - [WitSpeak](https://witspeak.ai/) - Speaking practice with an AI tutor on iOS, Android and the web, for English and Spanish, with French and German in early access. Free tier, paid Pro subscription.
 - [RadioLang](https://radiolang.com/) - Free browser radio player for live stations in 37 languages, filterable by category, with adjustable playback speed. No account needed.
 - [LyricGlow](https://github.com/ateymoori/lyricglow) - Free, open-source macOS menu bar app that shows synced Spotify and Apple Music lyrics word by word, with a translation into any of 43 languages underneath.
+- [Metheus](https://metheus.app/) - Chrome extension that adds dual subtitles and word lookups to Netflix and YouTube and saves words to a spaced-repetition deck in the web app, which also has an EPUB/PDF reader and courses on the 1,000 most common words with movie clips. 10 languages. Freemium.
 
 ### Free Courses & Audio
 
