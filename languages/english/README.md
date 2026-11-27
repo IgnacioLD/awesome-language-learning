@@ -17,6 +17,7 @@ Resources for learning English, organized by skill and CEFR level.
 ### B2-C2 (Upper Intermediate to Advanced)
 - [Cambridge English](https://www.cambridgeenglish.org/) - Official vocabulary lists for advanced levels.
 - [Anki](https://apps.ankiweb.net/) - Use spaced repetition with advanced English vocabulary decks.
+- [Lexkite](https://lexkite.com/en/) - Free English vocabulary app with spaced-repetition flashcards, a bilingual dictionary in 15 languages and a CEFR level test.
 
 ## Grammar
 
